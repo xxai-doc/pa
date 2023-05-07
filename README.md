@@ -2,9 +2,9 @@
 
 * [ਵੈੱਬਸਾਈਟ ਬਹੁ-ਭਾਸ਼ਾਈ ਦਸਤਾਵੇਜ਼](https://github.com/xxai-doc)
 
-ਵੈੱਬਸਾਈਟ ਦਾ ਫਰੰਟ-ਐਂਡ ਕੋਡ ਓਪਨ ਸੋਰਸ ਹੈ, ਅਨੁਵਾਦ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰਨ ਲਈ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ
+ਵੈੱਬਸਾਈਟ ਦਾ ਫਰੰਟਐਂਡ ਕੋਡ ਓਪਨ ਸੋਰਸ ਹੈ, ਅਨੁਵਾਦ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ
 
-* [ਫਰੰਟ-ਐਂਡ ਕੋਡ](https://github.com/xxai-art/web)
+* [ਫਰੰਟਐਂਡ ਕੋਡ](https://github.com/xxai-art/web)
 * [ਸਮੁੱਚੇ ਤੌਰ 'ਤੇ ਸਾਈਟ ਲਈ ਭਾਸ਼ਾ ਪੈਕ](https://github.com/xxai-art/web/tree/main/i18n)
 * [ਲੌਗਇਨ ਮੋਡੀਊਲ ਲਈ ਭਾਸ਼ਾ ਪੈਕ](https://github.com/wacpkg/user/tree/main/ui.i18n)
 * [ਵੈੱਬਸਾਈਟ ਬਹੁ-ਭਾਸ਼ਾਈ ਦਸਤਾਵੇਜ਼](https://github.com/xxai-doc)
